@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'agendamentos',
     'rest_framework',
     'rest_framework_simplejwt',
+    'usuarios',
+    'core',
+    'agendamentos',
 ]
 
 MIDDLEWARE = [
